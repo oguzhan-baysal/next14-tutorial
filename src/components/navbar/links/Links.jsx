@@ -8,15 +8,15 @@ import { handleLogout } from "@/lib/action";
 
 const links = [
   {
-    title: "Homepage",
+    title: "Anasayfa",
     path: "/",
   },
   {
-    title: "About",
+    title: "Hakkımda",
     path: "/about",
   },
   {
-    title: "Contact",
+    title: "İletişim",
     path: "/contact",
   },
   {

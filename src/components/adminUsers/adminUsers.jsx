@@ -17,6 +17,7 @@ const AdminUsers = async () => {
               alt=""
               width={50}
               height={50}
+              
             />
             <span>{user.username}</span>
           </div>

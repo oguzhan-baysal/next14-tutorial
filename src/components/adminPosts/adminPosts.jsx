@@ -17,6 +17,7 @@ const AdminPosts = async () => {
               alt=""
               width={50}
               height={50}
+              
             />
             <span className={styles.postTitle}>{post.title}</span>
           </div>
