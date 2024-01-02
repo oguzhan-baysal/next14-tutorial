@@ -13,6 +13,8 @@ export const metadata = {
 
 const ContactPage = () => {
   // const a = Math.random();
+  
+
 
   // console.log(a);
 
